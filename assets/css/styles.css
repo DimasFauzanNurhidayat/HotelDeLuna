@@ -656,7 +656,7 @@ body.dark-theme {
 }
 
 .content .subtitle {
-	font-family: Inter;
+	font-family: Poppins, sans-serif;
 	font-style: normal;
 	font-weight: 500;
 	font-size: 30px;
@@ -666,7 +666,7 @@ body.dark-theme {
 }
 
 .content .title {
-	font-family: Product Sans Bold;
+	font-family: Poppins, sans-serif Bold;
 	margin-top: 10px;
 	font-weight: 700;
 	font-size: 110px;
@@ -712,7 +712,7 @@ body.dark-theme {
 	font-size: 18.5px;
 	font-weight: 500;
 	letter-spacing: -.02rem;
-	font-family: Inter;
+	font-family: Poppins, sans-serif;
 }
 
 .search-box .input-box input {
@@ -722,7 +722,7 @@ body.dark-theme {
 	padding: 10px;
 	width: 100%;
 	font-size: 1em;
-	font-family: Inter;
+	font-family: Poppins, sans-serif;
 }
 
 .search-box .input-box input[type="Submit"] {
@@ -736,7 +736,7 @@ body.dark-theme {
 }
 
 .sec-head {
-	font-family: Product Sans Bold;
+	font-family: Poppins, sans-serif Bold;
 	font-size: 60px;
 	letter-spacing: -0.04em;
 }
@@ -841,7 +841,7 @@ body.dark-theme {
 }
 
 .vision {
-	font-family: Inter;
+	font-family: Poppins, sans-serif;
 	background-color: #d2d2d2;
 	background-image: url(../img/bg-pattern.svg);
 	background-position: center;
@@ -914,7 +914,7 @@ body.dark-theme {
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: space-between;
-	font-family: Inter;
+	font-family: Poppins, sans-serif;
 }
 
 .wrapper-rev .box {
